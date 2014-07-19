@@ -1,0 +1,4 @@
+sudomips
+========
+
+sudoku in mips
