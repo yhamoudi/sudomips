@@ -1,7 +1,7 @@
 PROJET SUDOMIPS								
 ===============
 
-# Yassine Hamoudi
+### Yassine Hamoudi
 
 Consulter aussi les fichiers joints : 				
  - Rapport.pdf : rapport du projet						 
