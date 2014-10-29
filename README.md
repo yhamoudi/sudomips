@@ -1,12 +1,12 @@
-PROJET SUDOMIPS								
+PROJET SUDOMIPS
 ===============
 
 ### Yassine Hamoudi
 
-Consulter aussi les fichiers joints : 				
- - Rapport.pdf : rapport du projet						 
- - Programme.s : programme MIPS de resolution	     	 
- - TEST : plusieurs grilles de test						 
+Consulter aussi les fichiers joints :
+ - Rapport.pdf : rapport du projet	
+ - Programme.s : programme MIPS de résolution 
+ - TEST : plusieurs grilles de test
 
 
 
